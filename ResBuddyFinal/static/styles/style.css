@@ -1,0 +1,16 @@
+/*style for the body*/
+body{
+	text-align: center;
+	padding-top: 10px;
+}
+/*style for enter place div tag*/
+.input-group-prepend{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 10px;
+}
+
+/*style for search option*/
+.search-button{
+	padding-top: 10px;
+}
